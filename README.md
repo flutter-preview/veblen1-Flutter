@@ -10,7 +10,9 @@ https://www.youtube.com/watch?v=mLQ-ehf3d6Y&list=PLfLgtT94nNq1izG4R2WDN517iPX4WX
 
 Flutter의 사이즈는 "LP" 기준
 
-'<div>' 와 같이 위젯안에 위젯으로 child식으로!
+'div' 와 같이 위젯안에 위젯으로 child식으로!
+
+Scaffold : 상중하로 나눠주는 위젯
 
 <br><br>
 
